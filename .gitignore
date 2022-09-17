@@ -17,6 +17,7 @@ _notes
 *.bak
 .ssh/
 conf/
+log/
 _smartrelease_except/
 html/.htaccess
 html/.htpasswd
